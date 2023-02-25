@@ -1,14 +1,18 @@
-# ProgresBelajarku
-Repository ini berisi pengalaman belajarku di DiCoding
+# PengalamanBelajar
 
-25 February 2023
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+
+**25 Februari 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-26 February 2023
+
+**26 Februari 2023**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
